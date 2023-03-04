@@ -1,6 +1,6 @@
 FROM node:18
 
-WORKDIR /src/app
+WORKDIR src/app
 
 ENV PORT 8080
 ENV HOST 4200
